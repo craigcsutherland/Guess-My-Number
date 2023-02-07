@@ -6,5 +6,5 @@ Guess the correct number game built using HTML, CSS & JavaScript
 
 ![guess](https://user-images.githubusercontent.com/103643310/217377955-1fbdf473-7d6b-4d7c-b3c0-030251993813.png)
 
-live demo version available at the link below!
+live demo version available via the link!
 https://craigcsutherland.github.io/Guess-My-Number/
