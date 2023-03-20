@@ -1,6 +1,8 @@
 # Guess-My-Number
 
-Guess the correct number game built using HTML, CSS & JavaScript
+"Guess the Number" game using HTML, CSS, and JavaScript. The game allows users to guess a randomly generated number
+within a specified range, and provides feedback on whether the guess was too high or too low. This project allowed me to apply
+my front-end development skills and gain valuable experience in using JavaScript to add interactivity and functionality.
 
 ![guess-my-number](https://user-images.githubusercontent.com/103643310/217377934-429f5dab-12f5-4c75-97be-549b316e0e4d.png)
 
